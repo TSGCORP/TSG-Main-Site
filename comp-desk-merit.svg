@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="800" height="400" aria-hidden="true">
+<defs><linearGradient id="g1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2B3845"/><stop offset="1" stop-color="#1F2A36"/></linearGradient></defs>
+<rect width="800" height="400" fill="url(#g1)"/>
+<circle cx="682" cy="300" r="2.1" fill="#FFFFFF" opacity="0.1"/><circle cx="704" cy="300" r="2.6" fill="#FFFFFF" opacity="0.16"/><circle cx="726" cy="300" r="2.1" fill="#FFFFFF" opacity="0.1"/><circle cx="660" cy="322" r="2.1" fill="#FFFFFF" opacity="0.1"/><circle cx="682" cy="322" r="3.9" fill="#FFFFFF" opacity="0.16"/><circle cx="704" cy="322" r="4.8" fill="#FFFFFF" opacity="0.1"/><circle cx="726" cy="322" r="3.9" fill="#FFFFFF" opacity="0.16"/><circle cx="748" cy="322" r="2.1" fill="#FFFFFF" opacity="0.1"/><circle cx="660" cy="344" r="2.6" fill="#FFFFFF" opacity="0.16"/><circle cx="682" cy="344" r="4.8" fill="#FFFFFF" opacity="0.1"/><circle cx="704" cy="344" r="7.0" fill="#FFFFFF" opacity="0.16"/><circle cx="726" cy="344" r="4.8" fill="#FFFFFF" opacity="0.1"/><circle cx="748" cy="344" r="2.6" fill="#FFFFFF" opacity="0.16"/><circle cx="660" cy="366" r="2.1" fill="#FFFFFF" opacity="0.1"/><circle cx="682" cy="366" r="3.9" fill="#FFFFFF" opacity="0.16"/><circle cx="704" cy="366" r="4.8" fill="#FFFFFF" opacity="0.1"/><circle cx="726" cy="366" r="3.9" fill="#FFFFFF" opacity="0.16"/><circle cx="748" cy="366" r="2.1" fill="#FFFFFF" opacity="0.1"/><circle cx="682" cy="388" r="2.1" fill="#FFFFFF" opacity="0.1"/><circle cx="704" cy="388" r="2.6" fill="#FFFFFF" opacity="0.16"/><circle cx="726" cy="388" r="2.1" fill="#FFFFFF" opacity="0.1"/>
+<rect x="150" y="240" width="58" height="90" rx="6" fill="#4A5868"/>
+<rect x="240" y="205" width="58" height="125" rx="6" fill="#4A5868"/>
+<rect x="330" y="180" width="58" height="150" rx="6" fill="#4A5868"/>
+<rect x="420" y="140" width="58" height="190" rx="6" fill="#4A5868"/>
+<rect x="510" y="95" width="58" height="235" rx="6" fill="#ED852F"/>
+<line x1="120" y1="330" x2="620" y2="330" stroke="#6B7682" stroke-width="2"/>
+<path d="M150 200 L620 120" stroke="#F6B27A" stroke-width="3" stroke-dasharray="10 8" fill="none"/>
+<circle cx="620" cy="120" r="9" fill="#F6B27A"/>
+<g transform="translate(560,40)"><rect width="120" height="44" rx="22" fill="#FFFFFF" opacity="0.12"/><text x="60" y="29" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#FFFFFF">+ %</text></g>
+</svg>
