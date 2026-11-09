@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-labelledby="t">
+<title id="t">Illustration of executive pay positioning against market ranges, with a pay program checklist</title>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F5F7F9"/><stop offset="1" stop-color="#E4E9EE"/></linearGradient>
+<filter id="sh" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="14" stdDeviation="16" flood-color="#1F2A36" flood-opacity="0.16"/></filter>
+</defs>
+<rect width="800" height="600" rx="16" fill="url(#bg)"/>
+<circle cx="676" cy="36" r="2.7" fill="#9AA4AE" opacity="0.55"/>
+<circle cx="702" cy="36" r="3.4" fill="#6B7682" opacity="0.55"/>
+<circle cx="728" cy="36" r="2.7" fill="#9AA4AE" opacity="0.55"/>
+<circle cx="650" cy="62" r="2.7" fill="#9AA4AE" opacity="0.55"/>
+<circle cx="676" cy="62" r="5.0" fill="#6B7682" opacity="0.55"/>
+<circle cx="702" cy="62" r="6.2" fill="#9AA4AE" opacity="0.55"/>
+<circle cx="728" cy="62" r="5.0" fill="#6B7682" opacity="0.55"/>
+<circle cx="754" cy="62" r="2.7" fill="#9AA4AE" opacity="0.55"/>
+<circle cx="650" cy="88" r="3.4" fill="#6B7682" opacity="0.55"/>
+<circle cx="676" cy="88" r="6.2" fill="#9AA4AE" opacity="0.55"/>
+<circle cx="702" cy="88" r="9.0" fill="#6B7682" opacity="0.55"/>
+<circle cx="728" cy="88" r="6.2" fill="#9AA4AE" opacity="0.55"/>
+<circle cx="754" cy="88" r="3.4" fill="#6B7682" opacity="0.55"/>
+<circle cx="650" cy="114" r="2.7" fill="#9AA4AE" opacity="0.55"/>
+<circle cx="676" cy="114" r="5.0" fill="#6B7682" opacity="0.55"/>
+<circle cx="702" cy="114" r="6.2" fill="#9AA4AE" opacity="0.55"/>
+<circle cx="728" cy="114" r="5.0" fill="#6B7682" opacity="0.55"/>
+<circle cx="754" cy="114" r="2.7" fill="#9AA4AE" opacity="0.55"/>
+<circle cx="676" cy="140" r="2.7" fill="#9AA4AE" opacity="0.55"/>
+<circle cx="702" cy="140" r="3.4" fill="#6B7682" opacity="0.55"/>
+<circle cx="728" cy="140" r="2.7" fill="#9AA4AE" opacity="0.55"/>
+<rect x="48" y="52" width="580" height="440" rx="14" fill="#FFFFFF" filter="url(#sh)"/>
+<text x="80" y="100" font-family="'Plus Jakarta Sans','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="22" font-weight="700" fill="#1F2A36">Executive pay positioning</text>
+<text x="80" y="126" font-family="'Plus Jakarta Sans','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" fill="#5B6673">Target total compensation vs. market range</text>
+<text x="80" y="168" font-family="'Plus Jakarta Sans','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#3A4450">Chief Executive Officer</text>
+<rect x="80" y="180" width="516" height="10" rx="5" fill="#EEF1F4"/>
+<rect x="234.8" y="180" width="247.7" height="10" rx="5" fill="#F9D2B0"/>
+<line x1="358.6" y1="176" x2="358.6" y2="194" stroke="#C96A1E" stroke-width="2"/>
+<circle cx="369.0" cy="185" r="8" fill="#1F2A36" stroke="#FFFFFF" stroke-width="3"/>
+<text x="80" y="222" font-family="'Plus Jakarta Sans','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#3A4450">Chief Financial Officer</text>
+<rect x="80" y="234" width="516" height="10" rx="5" fill="#EEF1F4"/>
+<rect x="214.2" y="234" width="237.4" height="10" rx="5" fill="#F9D2B0"/>
+<line x1="332.8" y1="230" x2="332.8" y2="248" stroke="#C96A1E" stroke-width="2"/>
+<circle cx="322.5" cy="239" r="8" fill="#1F2A36" stroke="#FFFFFF" stroke-width="3"/>
+<text x="80" y="276" font-family="'Plus Jakarta Sans','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#3A4450">Chief Operating Officer</text>
+<rect x="80" y="288" width="516" height="10" rx="5" fill="#EEF1F4"/>
+<rect x="224.5" y="288" width="237.4" height="10" rx="5" fill="#F9D2B0"/>
+<line x1="343.2" y1="284" x2="343.2" y2="302" stroke="#C96A1E" stroke-width="2"/>
+<circle cx="276.1" cy="293" r="8" fill="#ED852F" stroke="#FFFFFF" stroke-width="3"/>
+<text x="80" y="330" font-family="'Plus Jakarta Sans','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#3A4450">Chief Revenue Officer</text>
+<rect x="80" y="342" width="516" height="10" rx="5" fill="#EEF1F4"/>
+<rect x="203.8" y="342" width="237.4" height="10" rx="5" fill="#F9D2B0"/>
+<line x1="322.5" y1="338" x2="322.5" y2="356" stroke="#C96A1E" stroke-width="2"/>
+<circle cx="399.9" cy="347" r="8" fill="#1F2A36" stroke="#FFFFFF" stroke-width="3"/>
+<text x="80" y="384" font-family="'Plus Jakarta Sans','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#3A4450">Chief Human Resources Officer</text>
+<rect x="80" y="396" width="516" height="10" rx="5" fill="#EEF1F4"/>
+<rect x="193.5" y="396" width="227.0" height="10" rx="5" fill="#F9D2B0"/>
+<line x1="307.0" y1="392" x2="307.0" y2="410" stroke="#C96A1E" stroke-width="2"/>
+<circle cx="307.0" cy="401" r="8" fill="#1F2A36" stroke="#FFFFFF" stroke-width="3"/>
+<line x1="80" y1="438" x2="596" y2="438" stroke="#EEF1F4" stroke-width="1"/>
+<rect x="80" y="453" width="22" height="10" rx="5" fill="#F9D2B0"/><text x="110" y="462" font-family="'Plus Jakarta Sans','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="12" fill="#5B6673">Market range</text>
+<line x1="208" y1="451" x2="208" y2="465" stroke="#C96A1E" stroke-width="2"/><text x="218" y="462" font-family="'Plus Jakarta Sans','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="12" fill="#5B6673">Market midpoint</text>
+<circle cx="342" cy="458" r="6" fill="#1F2A36"/><text x="354" y="462" font-family="'Plus Jakarta Sans','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="12" fill="#5B6673">Current pay</text>
+<rect x="488" y="420" width="288" height="164" rx="14" fill="#1F2A36" filter="url(#sh)"/>
+<text x="514" y="458" font-family="'Plus Jakarta Sans','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="700" fill="#FFFFFF">Pay program health</text>
+<circle cx="524" cy="489" r="10" fill="#ED852F"/><path d="M519 489 l3.5 3.5 l6.5 -7" fill="none" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="544" y="494" font-family="'Plus Jakarta Sans','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" fill="#E4E9EE">Salary structures current</text>
+<circle cx="524" cy="521" r="10" fill="#ED852F"/><path d="M519 521 l3.5 3.5 l6.5 -7" fill="none" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="544" y="526" font-family="'Plus Jakarta Sans','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" fill="#E4E9EE">Incentives tied to value creation</text>
+<circle cx="524" cy="553" r="10" fill="#ED852F"/><path d="M519 553 l3.5 3.5 l6.5 -7" fill="none" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="544" y="558" font-family="'Plus Jakarta Sans','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" fill="#E4E9EE">Board and sponsor ready</text>
+</svg>
