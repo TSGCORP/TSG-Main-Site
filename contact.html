@@ -34,9 +34,12 @@
 <section class="section"><div class="wrap grid grid-2" style="align-items:start">
   <div class="card">
     <h2 style="font-size:28px">Send us a message</h2>
-    <!-- FORM SETUP: GitHub Pages cannot process forms. Create a free form at https://formspree.io,
-         then replace YOUR_FORM_ID below. Submissions arrive at info@tsg-corp.com. -->
-    <form action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
+    <form action="https://api.web3forms.com/submit" method="POST">
+      <input type="hidden" name="access_key" value="e48b52aa-a12e-4ad5-9e4a-c756a049ba52">
+      <input type="hidden" name="subject" value="New inquiry from tsg-corp.com">
+      <input type="hidden" name="from_name" value="TSG Website">
+      <input type="hidden" name="redirect" value="https://tsg-corp.com/thank-you.html">
+      <input type="checkbox" name="botcheck" style="display:none" tabindex="-1" autocomplete="off">
       <label for="name">Name<input id="name" name="name" type="text" required autocomplete="name"></label>
       <label for="email">Work email<input id="email" name="email" type="email" required autocomplete="email"></label>
       <label for="company">Company<input id="company" name="company" type="text" autocomplete="organization"></label>
